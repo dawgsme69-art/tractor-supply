@@ -38,7 +38,7 @@ const steps: Step[] = [
 ];
 
 export default function InstructionSteps() {
-  const url = "https://gloffers.org/aff_c?offer_id=3673&aff_id=44723&source=Mars";
+  const url = "https://giftclick.org/?offer_id=5487&aff_id=173364";
 
   const handleStepClick = (index: number) => {
     if (index !== 0) return;
